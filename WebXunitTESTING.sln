@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebXunitTESTING", "WebXunitTESTING\WebXunitTESTING.csproj", "{BFD6E8E6-B022-4206-BB1A-D52344ECCCC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorDBTesting", "..\RazorDBTesting\RazorDBTesting\RazorDBTesting.csproj", "{C27DCE86-2283-5150-D7F5-1B62C0D5A491}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFD6E8E6-B022-4206-BB1A-D52344ECCCC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFD6E8E6-B022-4206-BB1A-D52344ECCCC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFD6E8E6-B022-4206-BB1A-D52344ECCCC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFD6E8E6-B022-4206-BB1A-D52344ECCCC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C27DCE86-2283-5150-D7F5-1B62C0D5A491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C27DCE86-2283-5150-D7F5-1B62C0D5A491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C27DCE86-2283-5150-D7F5-1B62C0D5A491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C27DCE86-2283-5150-D7F5-1B62C0D5A491}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1050CEA-3E18-4D63-8788-4820576862DD}
+	EndGlobalSection
+EndGlobal
